@@ -1,4 +1,4 @@
-# Roadmap Voting App ![ workflow](https://github.com/devzero-inc/samples/actions/workflows/roadmap.yml/badge.svg)
+# Roadmap Voting App ![ workflow](https://github.com/devzero-inc/roadmap-voting-app/actions/workflows/main.yml/badge.svg)
 
 ## Overview
 A roadmap voting app that democratizes the development process by enabling authenticated users to influence a project's trajectory. Through a simple and intuitive interface, users can vote on proposed features, track the progress of development items, and see at a glance which enhancements are up next or already completed. This platform ensures that every voice is heard and that the project aligns closely with the community's most valued feedback and needs.
@@ -44,8 +44,8 @@ The Roadmap Voting App offers an intuitive and collaborative platform for users 
 
 Run locally: 
 ```bash
-git clone https://github.com/devzero-inc/samples.git
-cd samples/roadmap-voting-app
+git clone https://github.com/devzero-inc/roadmap-voting-app.git
+cd roadmap-voting-app
 docker compose up
 ```
 App will be running on ```PORT:3000``` -> [http://localhost:3000/](http://localhost:3000/)
