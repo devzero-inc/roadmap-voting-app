@@ -5,7 +5,7 @@ dev:
   - command: npm install
     directory: roadmap-voting-app
     name: install_cmd_0
-  name: ""
+  name: "roadmap-voting-app"
   packages:
   - dz.docker
   - nixpkgs.nodejs_18
@@ -21,3 +21,10 @@ compute:
 network:
   category: container
   network_name: default
+description: A roadmap voting app that democratizes the development process by enabling authenticated users to influence a project's trajectory
+display_name: Roadmap Voting App
+tags:
+- Supabase
+- PostgreSQL
+- Next.js
+- Tailwind CSS
