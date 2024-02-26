@@ -2,6 +2,15 @@
 Dockerfile
 .dockerignore
 docker-compose.yml
+/__tests__
+/.github
+/.vscode
+.eslintrc.json
+.gitattributes
+.gitignore
 .env.local
+DZ_RECIPE.yml
+jest.config.ts
+README.md
 start.txt
 .next
